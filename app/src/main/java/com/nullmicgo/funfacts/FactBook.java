@@ -1,4 +1,4 @@
-package com.teamtreehouse.funfacts;
+package com.nullmicgo.funfacts;
 
 
 import java.util.Random;
